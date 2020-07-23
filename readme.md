@@ -17,7 +17,7 @@
 
 ## What is Cosmos?
 <p>
-Cosmos is an open source Social Media platform. The project aims to provide a dedicated box like platform for it's users where they can have dedicated spaces for their  friends, family, work circle, etc. We achieve this by utilizing Boxes. Inside of each box you add users by there email that are relevant to that box. This helps you focus and share content in groups (boxes) where that content would matter the most.
+Cosmos is an open source Social Media platform. The project aims to provide a dedicated box like platform for it's users where they can have dedicated spaces for their  friends, family, work circle, etc. We achieve this by utilizing Boxes. Inside of each box you add users by their email that are relevant to that box. This helps you focus and share content in groups (boxes) where that content would matter the most.
 </p>
 
 <br/>
